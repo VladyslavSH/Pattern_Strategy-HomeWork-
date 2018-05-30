@@ -1,0 +1,13 @@
+C:\Users\MAK\Desktop\Git\Pattern_Strategy-HomeWork-\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\MAK\Desktop\Git\Pattern_Strategy-HomeWork-\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\MAK\Desktop\Git\Pattern_Strategy-HomeWork-\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\MAK\Desktop\Git\Pattern_Strategy-HomeWork-\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+C:\Users\MAK\Desktop\Git\Pattern_Strategy-HomeWork-\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\MAK\Desktop\Git\Pattern_Strategy-HomeWork-\Strategy\Strategy\obj\Debug\Strategy.pdb
+G:\Strategy\Strategy\bin\Debug\Strategy.exe.config
+G:\Strategy\Strategy\bin\Debug\Strategy.exe
+G:\Strategy\Strategy\bin\Debug\Strategy.pdb
+G:\Strategy\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+G:\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+G:\Strategy\Strategy\obj\Debug\Strategy.exe
+G:\Strategy\Strategy\obj\Debug\Strategy.pdb

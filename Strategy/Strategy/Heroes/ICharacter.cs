@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Strategy.Warrior
+namespace Strategy.Heroes
 {
-    class Character
+    public interface ICharacter
     {
+        void fight();
     }
 }

@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Strategy.Weapon
+namespace Strategy.WeaponB
 {
-    interface IWeaponBehavior
+    public class KnifeBehavior : IWeaponBehavior
     {
         public void UseWeapon()
         {
-
+            Console.WriteLine("Knife!");
         }
     }
 }

@@ -42,8 +42,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Heroes\Character.cs" />
+    <Compile Include="Heroes\Fight.cs" />
+    <Compile Include="Heroes\ICharacter.cs" />
+    <Compile Include="Heroes\King.cs" />
+    <Compile Include="Heroes\Knight.cs" />
+    <Compile Include="Heroes\Queen.cs" />
+    <Compile Include="Heroes\Troll.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WeaponB\AxeBehavior.cs" />
+    <Compile Include="WeaponB\BowAndArrowBehavior.cs" />
+    <Compile Include="WeaponB\IWeaponBehavior.cs" />
+    <Compile Include="WeaponB\KnifeBehavior.cs" />
+    <Compile Include="WeaponB\SwordBehavior.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
